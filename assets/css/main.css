@@ -514,7 +514,7 @@ p{
 --------------------------------------------------------------*/
 .footer {
   color: var(--default-color);
-  background-color: #101011;
+  background-color: #000000;
   font-size: 14px;
   padding-bottom: 50px;
   position: relative;
@@ -1002,22 +1002,17 @@ section,
   font-family: 'Cascadia Mono', monospace;
 }
 
-.btn-slogan{
+.a-slogan{
   font-family: 'Cascadia Mono', monospace;
   box-sizing: border-box;
-  aspect-ratio: auto;
   color: #fff;
   letter-spacing: 2px;
   text-transform: uppercase;
   background-color: #000;
   border: 2px solid #4bd137;
   border-radius: 10px;
-  justify-content: center;
-  align-self: center;
-  align-items: center;
-  width: 200px;
-  padding: 12px 25px;
-  font-size: 12px;
+  padding: 15px 40px;
+  font-size: 17px;
   line-height: 20px;
   transition: all .2s;
   box-shadow: -7px 5px 9px 3px #0003;
@@ -1047,7 +1042,7 @@ section,
 
 .hero .btn-get-started:hover {
   color: #ffffff; 
-  background: #38343c; 
+  background: #ffffff; 
   border-color: #4bd137; 
 }
 
